@@ -6,7 +6,7 @@ This is the project made for the seventh code challenge done in Ruby
 
 It is an e-commerce domain with this ERD:
 
-
+![ERDDiagram1](https://user-images.githubusercontent.com/117741313/223023431-e5fb886b-4c44-4a2a-bdd9-28215b572636.jpg)
 
 It contains deliverables with classes that have the following properties and methods.
 
